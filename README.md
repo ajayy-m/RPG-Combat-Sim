@@ -72,16 +72,6 @@ The system is entirely text-based and designed to run in the terminal.
 
 ---
 
-## 🛠️ Future Enhancements (Optional Ideas)
-
-* Add support for items or healing spells
-* Add more status effects (Burn, Stun, etc.)
-* Introduce multiple player characters or allies
-* Implement leveling, XP, and skills
-* Build a GUI with Tkinter or PyGame
-
----
-
 ## 📄 License
 
-This project is for educational/demo purposes.
+This project is licensed on Apache 2.0
